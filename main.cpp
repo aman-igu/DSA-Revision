@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// merge sort implementation
 void merge(vector<int> &arr, int l, int mid, int r) {
     vector<int> temp;
 
